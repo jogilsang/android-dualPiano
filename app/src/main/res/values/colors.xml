@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="stroke">#000000</color>
+
+    <color name="ventanaazur_1">#F2385A</color>
+    <color name="ventanaazur_2">#F5A503</color>
+    <color name="ventanaazur_3">#4AD9D9</color>
+
+
+
+
+    <color name="pie1">#0288D1</color>
+    <color name="pie2">#F2385A</color>
+    <color name="pie3">#F5A503</color>
+    <color name="pie4">#7FFF00</color>
+    <color name="pie5">#FF2D00</color>
+    <color name="pie6">#727272</color>
+    <color name="pie7">#FDFF00</color>
+    <color name="pie8">#008000</color>
+    <color name="pie9">#BF00FF</color>
+    <color name="pie10">#7DF9FF</color>
+
+    <color name="pie11">#228B22</color>
+    <color name="pie12">#00FF00</color>
+    <color name="pie13">#3F00FF</color>
+    <color name="pie14">#F4BBFF</color>
+    <color name="pie15">#FEF65B</color>
+    <color name="pie16">#EF3038</color>
+    <color name="pie17">#3CB371</color>
+    <color name="pie18">#FFEB00</color>
+    <color name="pie19">#FFDAE9</color>
+
+    <color name="review_green">#ff669900</color>
+    <color name="colorPrimaryText">#0288D1</color>
+
+</resources>

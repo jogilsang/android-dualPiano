@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "594878968818",
+    "firebase_url": "https://testfirebase-14304.firebaseio.com",
+    "project_id": "testfirebase-14304",
+    "storage_bucket": "testfirebase-14304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594878968818:android:76299fd3b054ed90",
+        "android_client_info": {
+          "package_name": "jogilsang.com.naver.blog.piano_jgs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594878968818-2rfe40e30vq92f6q062d08od4cafbagj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jogilsang.com.naver.blog.piano_jgs",
+            "certificate_hash": "098d3ac4463136a18033124c7b13287111443a6b"
+          }
+        },
+        {
+          "client_id": "594878968818-65k6msnljgtsquj4flq971d1aqrkuds1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCU1Ebv5L3E1kP7vgYDJdkGO6kL6xw7SM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594878968818-65k6msnljgtsquj4flq971d1aqrkuds1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

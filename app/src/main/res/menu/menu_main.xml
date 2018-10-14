@@ -1,0 +1,55 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+   <!--
+    <item
+        android:id="@+id/action_conversion"
+        android:icon="@drawable/ic_action_conversion"
+        android:title="@string/menu_conversion"
+        android:visible="true"
+        app:showAsAction="ifRoom"
+        />
+
+        -->
+
+    <item
+        android:id="@+id/action_record"
+        android:title="@string/menu_record"
+        android:visible="true"
+        app:showAsAction="never"
+        />
+
+    <!--
+
+    <item
+        android:id="@+id/action_invite"
+        android:title="@string/menu_invite"
+        android:visible="true"
+        app:showAsAction="never"
+        />
+
+        -->
+
+
+    <item
+        android:id="@+id/action_notice"
+        android:title="@string/menu_notice"
+        android:visible="true"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/action_version"
+        android:title="@string/menu_version"
+        android:visible="true"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/action_exit"
+        android:title="@string/menu_exit"
+        android:visible="true"
+        app:showAsAction="never" />
+
+</menu>

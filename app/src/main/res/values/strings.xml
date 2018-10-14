@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Dual Piano</string>
+
+    <string name="menu_record">녹음</string>
+    <string name="menu_invite">앱 초대하기</string>
+    <string name="menu_notice">고객센터/도움말</string>
+    <string name="menu_version">버전정보/업데이트</string>
+    <string name="menu_exit">종료</string>
+    <string name="menu_conversion">배경전환</string>
+
+    <string name="v1.0.0_message">2017_05_01 (v1.0.0)\n
+주기적으로 업데이트 할 예정이니 많은 피드백 부탁드립니다.
+문의사항이나 제보사항이 있으시다면, 기재된 내용을 바탕으로 한 모든 범위내에서 연락해주시면되겠습니다. 감사합니다.
+    </string>
+
+    <string name="invitation_deep_link">https://play.google.com/store/apps/details?id=com.jogilsang.sns.realtime.candidate&amp;hl=ko</string>
+
+    <string name="txt_device_version">설치 버전 : </string>
+    <string name="txt_current_version">최신 버전 : </string>
+    <string name="txt_versionupdate">버전 업데이트</string>
+
+    <string name="license_wav_piano_sound">"pffy/wav-piano-sound
+https://github.com/pffy/wav-piano-sound
+Unlicense
+public domain"\n</string>
+
+</resources>
