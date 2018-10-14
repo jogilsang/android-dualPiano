@@ -1,11 +1,11 @@
 # dualPiano
 
+Smartphone app
+
 Introduce
 =============
 
 Beating the keyboard with both hands
-
-Smartphone app
 
 Image
 =============
