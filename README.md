@@ -1,5 +1,8 @@
 # dualPiano
 
+Introduce
+=============
+
 Beating the keyboard with both hands
 
 Smartphone app
@@ -13,14 +16,6 @@ Image
 
 
 <hr/>
-
-Introduce
-=============
-
-다양한 네트워크디자인 기본예제들을 패킷트레이서로 구현하고
-.pkt 파일형식으로 저장했다
-
-packetTracer 버전은 7.0 이상이여야한다
 
 Contents
 =============
